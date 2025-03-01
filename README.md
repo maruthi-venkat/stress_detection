@@ -39,7 +39,7 @@ A web-based stress detection and management system that uses the CatBoost machin
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/maruthi-venkat/stress_detection/
 cd Stress_detection_CATboost
 ```
 
